@@ -270,7 +270,7 @@ Otros objetivos
 
 [X] Comprender la importancia de la medición y experimentación en la gestión de sistemas informáticos.
 
-## 16/122014
+## 16/12/2014
 
 [X] Ver cómo se pueden usar en la práctica los conocimientos de la asignatura.
 
@@ -278,7 +278,7 @@ Otros objetivos
 
 [X] Resolver dudas relacionadas con la utilidad práctica de las infraestructuras virtuales.
 
-12/01/2015
+## 12/01/2015
 
 [X] Entender el concepto de provisionamiento de máquinas virtuales.
 [X] Usar Chef para provisionamiento de una máquina virtual.
