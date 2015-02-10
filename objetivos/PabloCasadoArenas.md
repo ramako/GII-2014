@@ -219,7 +219,7 @@
 
 []¿Has modificado algún artículo de la Wikipedia? Pues hazlo ya.
 
-## 2/122014
+## 2/12/2014
 
 [X]Resolver últimos problemas con docker.
 
@@ -246,7 +246,7 @@ Otros objetivos
 [X]Usar herramientas de la asignatura para tareas de utilidad en la administración de sistemas u otras asignaturas.
 
 
-## 11/12 2014
+## 11/12/2014
 
 [X] Entender diferentes tipos de sistemas de ficheros virtuales
 
