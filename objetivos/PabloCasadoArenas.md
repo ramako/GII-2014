@@ -209,6 +209,7 @@
 [X] Aprender estrategias para resolución de problemas con nuevas aplicaciones: uso de foros, registros de error, preguntar a quien lo sepa.
 
 []Escribir un resumen de la visita al Grupo Trevenque. Hombre ya.
+
 ## 1/12/2014
 
 [X] Resolver últimos problemas con docker.
@@ -281,10 +282,13 @@ Otros objetivos
 ## 12/01/2015
 
 [X] Entender el concepto de provisionamiento de máquinas virtuales.
+
 [X] Usar Chef para provisionamiento de una máquina virtual.
+
 [X] Comprender la utilidad de provisionamiento externo de máquinas virtuales.
 
 [X] Tener listas máquinas virtuales para pruebas, localmente con un gestor de máquinas virtuales o en la nube.
+
 [X] Retomar el contacto con la asignatura y ponerse al día en los objetivos.
 
 ## 16/01/2015
@@ -296,5 +300,7 @@ Otros objetivos
 [X] Comprender la utilidad de provisionamiento externo de máquinas virtuales.
 
 [X] Aprender a usar máquinas virtuales.
+
 [X] Elegir un sistema de provisionamiento.
+
 [X] Entender los objetivos del último proyecto (y de la asignatura).
